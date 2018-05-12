@@ -1,0 +1,45 @@
+_repo: Atrocious-Judges---Lives-of-Judges-Infamous-as-Tools-of-Tyrants-and-Instruments-of-Oppression_40076
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Campbell, John Campbell, Baron
+    aliases:
+    - Campbell, John, Lord
+    - Campbell, Lord
+    birthdate: 1779
+    deathdate: 1861
+    gutenberg_agent_id: '40427'
+    url: http://www.gutenberg.org/2009/agents/40427
+    wikipedia: http://en.wikipedia.org/wiki/John_Campbell,_1st_Baron_Campbell
+  editor:
+    agent_name: Hildreth, Richard
+    alias: Hildreth, R. (Richard)
+    birthdate: 1807
+    deathdate: 1865
+    gutenberg_agent_id: '25677'
+    url: http://www.gutenberg.org/2009/agents/25677
+description: ''
+gutenberg_issued: '2012-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40076'
+  lccn: '28011693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political questions and judicial power -- England -- History'
+- !lcc 'KD'
+- !lcsh 'Judges -- England -- Biography'
+- !lcsh 'Judicial corruption -- England -- History'
+tableOfContents: Roger Le Brabancon -- Robert Tresilian -- Thomas Billing -- John
+  Fitzjames -- Thomas Fleming -- Nicholas Hyde -- John Brampston -- Robert Heath --
+  Robert Foster -- Robert Hyde -- John Kelynge -- William Scroggs -- Francis North
+  -- Edmund Saunders -- George Jeffreys -- Robert Wright.
+title: 'Atrocious Judges : Lives of Judges Infamous as Tools of Tyrants and Instruments
+  of Oppression'
+url: http://www.gutenberg.org/ebooks/40076
