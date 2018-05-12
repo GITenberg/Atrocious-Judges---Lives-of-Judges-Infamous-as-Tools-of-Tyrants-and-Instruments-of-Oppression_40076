@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '25677'
     url: http://www.gutenberg.org/2009/agents/25677
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40076#Atrocious-Judges---Lives-of-Judges-Infamous-as-Tools-of-Tyrants-and-Instruments-of-Oppression
 gutenberg_issued: '2012-06-24'
 gutenberg_type: Text
 identifiers:
